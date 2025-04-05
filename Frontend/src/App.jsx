@@ -15,7 +15,7 @@ import Checkout from "./pages/Checkout";
 import OrderConfirmation from "./pages/OrderConfirmation";
 import Search from "./pages/Search";
 import Favorites from "./pages/Favorites";
-import UserProfile from "./pages/userProfile/userProfile.jsx";
+import UserProfile from "./pages/userProfile/UserProfile.jsx";
 import BecomeVendor from "./pages/BecomeVendor";
 import VendorDashboard from "./pages/VendorDashboard";
 import CategoryPage from "./pages/CategoryPage";
